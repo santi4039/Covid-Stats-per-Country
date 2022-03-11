@@ -1,0 +1,14 @@
+.contenedor{
+    border: 2px dashed #DDD;
+    padding: 5px 20px;
+    border-radius: 25px;
+    background-color: skyblue;
+    color: #064848;
+    font-family: cursive;
+    width: 600px;
+    margin:auto;
+}
+
+.body{
+    background-color: rgb(21, 65, 50);
+}
